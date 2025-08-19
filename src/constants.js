@@ -40,6 +40,7 @@ import Inngest from "./assets/tech_logo/inngest.png"
 import jwt from "./assets/tech_logo/jwt.svg"
 import smtp from "./assets/tech_logo/smtp.jpeg"
 import chatbot from "./assets/tech_logo/chatbot.jpeg"
+import daisy from "./assets/tech_logo/daisy.jpeg"
 
 
 
@@ -70,6 +71,7 @@ export const SkillsInfo = [
       { name: 'Redux', logo: reduxLogo },
       { name: 'Next JS', logo: nextjsLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
+      { name: 'DaisyUI ', logo: daisy },
 
     ],
   },
