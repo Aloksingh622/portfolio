@@ -158,7 +158,7 @@ export const education = [
     id: 0,
     img: kitlogo, // replace with actual Kashi Institute of Technology logo import
     school: "Kashi Institute of Technology, Varanasi",
-    date: "Aug 2019 - July 2022",
+    date: "Aug 2023 - July 2026",
     grade: "73%",
     desc: "I have completed my Bachelor's degree (BCA) in Computer Applications from Kashi Institute of Technology, Varanasi. Throughout my BCA, I developed a solid understanding of programming fundamentals, database management, and web development. I studied subjects such as C Programming, Java, Data Structures, Computer Networks, and Software Engineering. I also participated in coding activities and academic projects that helped strengthen my problem-solving and development skills.",
     degree: "Bachelor of Computer Applications - BCA",
