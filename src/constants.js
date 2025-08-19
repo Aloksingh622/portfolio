@@ -139,7 +139,7 @@ export const experiences = [
     img: kbp, // replace with the actual company logo import
     role: "Backend & AI Automation Developer (Intern)",
     company: "KPB Supports Solutions", // replace with actual name
-    date: "Feb 2024 - Mar 2024",
+    date: "Jul 2025 - Aug 2025",
     desc: "Worked on backend development and AI automation projects, integrating APIs and building a custom chatbot for the company. Implemented RESTful APIs, handled database operations",
     skills: [
       "Node JS",
