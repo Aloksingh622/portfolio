@@ -41,6 +41,7 @@ import jwt from "./assets/tech_logo/jwt.svg"
 import smtp from "./assets/tech_logo/smtp.jpeg"
 import chatbot from "./assets/tech_logo/chatbot.jpeg"
 import daisy from "./assets/tech_logo/daisy.jpeg"
+import web from "./assets/tech_logo/web.png"
 
 
 
@@ -89,6 +90,7 @@ export const SkillsInfo = [
       { name: 'Rest Api', logo: api },
       { name: 'JWT', logo: jwt },
       { name: 'Smtp', logo: smtp },
+      { name: 'WebRTC', logo: web },
     ],
   },
   {
@@ -252,8 +254,8 @@ export const projects = [
       "JavaScript",
       "Gemini API"
     ],
-    github: "https://sitesmith.thealok.shop", // replace with your repo link
-    webapp: "https://github.com/Aloksingh622/sitesmith", // replace with your live link
+    github: "https://github.com/Aloksingh622/sitesmith", // replace with your repo link
+    webapp: "https://sitesmith.thealok.shop", // replace with your live link
   }
   ,
   {

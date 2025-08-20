@@ -110,7 +110,6 @@ const Navbar = () => {
 
 
         </div>
-
         {/* Mobile Menu Icon */}
         <div className="md:hidden">
           {isOpen ? (
@@ -160,7 +159,7 @@ const Navbar = () => {
                 <FaLinkedin size={24} />
               </a>
               <a
-                href="https://leetcode.com/u/your-username/"
+                href="https://leetcode.com/u/saloksingh320/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:opacity-80"
@@ -169,6 +168,18 @@ const Navbar = () => {
                   src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png"
                   alt="LeetCode"
                   className="w-6 h-6"
+                />
+              </a>
+              <a
+                href="https://www.geeksforgeeks.org/user/saloksicers/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-300 hover:opacity-80"
+              >
+                <img
+                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/GeeksForGeeks_logo.png/1280px-GeeksForGeeks_logo.png"
+                  alt="GFG"
+                  className="w-5 h-5"
                 />
               </a>
             </div>
