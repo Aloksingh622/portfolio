@@ -252,8 +252,8 @@ export const projects = [
       "JavaScript",
       "Gemini API"
     ],
-    github: "https://github.com/yourusername/sitesmith", // replace with your repo link
-    webapp: "https://sitesmith.example.com/", // replace with your live link
+    github: "https://sitesmith.thealok.shop", // replace with your repo link
+    webapp: "https://github.com/Aloksingh622/sitesmith", // replace with your live link
   }
   ,
   {
